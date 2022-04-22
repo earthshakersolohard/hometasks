@@ -1,0 +1,7 @@
+Math: 9(l) 9(pr) 9(sem)
+Ru: 9(l) 9(pr) -
+Eng: 9(l) 5(pr) 5(sem)
+Kaz: 5(l) 9(pr) 9(sem)
+История 9(l) - 9(sem)
+Линал: 5(l) 7(pr) 8(sem)
+
